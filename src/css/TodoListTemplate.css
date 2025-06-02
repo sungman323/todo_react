@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.todo_list_template{
+  background: #fff;
+  width: 520px;
+  margin: 0 auto;
+  margin-top: 3rem;
+  box-shadow: 0px 3px 6px #ccc;
+}
+
+.title{
+  padding: 2rem;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  background: #22b8cf;
+  color: #fff;
+}
+
+.form_wrapper{
+  padding: 1rem;
+  border-bottom: 1px solid #33b8cf;
+}
+
+.todos_wrapper{
+  min-height: 5rem;
+}
